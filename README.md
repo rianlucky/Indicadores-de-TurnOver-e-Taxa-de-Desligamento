@@ -9,7 +9,7 @@ Dashboard interativo desenvolvido em Power BI para acompanhamento dos principais
 Este painel apresenta uma visão consolidada e dinâmica dos seguintes indicadores:
 
 - **Turnover Geral**: Percentual de desligamentos em relação ao quadro médio de colaboradores no período analisado.
-- **Taxa de Desligamento**: Análise detalhada dos desligamentos (voluntários e involuntários), com segmentações por área, gestor, tempo de casa, cargo, entre outros filtros disponíveis.
+- **Taxa de Desligamento**: Análise detalhada dos desligamentos (voluntários e involuntários), com segmentações por área, tempo de casa, faixa etária, entre outros filtros disponíveis.
 - **Tendência Mensal**: Evolução da rotatividade ao longo dos meses do ano, permitindo identificar padrões sazonais e áreas críticas.
 
 ## Funcionalidades
