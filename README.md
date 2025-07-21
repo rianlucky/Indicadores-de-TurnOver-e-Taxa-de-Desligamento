@@ -22,6 +22,3 @@ Este painel apresenta uma visão consolidada e dinâmica dos seguintes indicador
 
 Apoiar a área de Gente & Gestão e lideranças na análise de turnover, promovendo ações preventivas e corretivas mais eficazes na retenção de talentos.
 
----
-
-*Projeto interno – não compartilhe dados sensíveis fora do ambiente corporativo.*
